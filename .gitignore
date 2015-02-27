@@ -1,0 +1,9 @@
+.kdev4/
+ac3_es_viewer.kdev4
+build/
+project/
+moc_*
+*.o
+utils/ac3_es_browser_gui/Makefile
+utils/ac3_es_browser_gui/.kdev_include_paths
+version_info.h
